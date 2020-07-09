@@ -1,5 +1,5 @@
 <p>
-  <img src="./logo.svg" width="32px">
+  <img src="https://raw.githubusercontent.com/0kzh/0kzh/master/logo.svg" width="32px">
   <br><br>
   <samp>
   👋 Hi there, I'm Kelvin!<br><br>
@@ -23,8 +23,8 @@
 </details>
 <br>
 
-![https://kelvinzhang.ca/](./website.svg)
+![https://kelvinzhang.ca/](https://raw.githubusercontent.com/0kzh/0kzh/master/website.svg)
 &nbsp;&nbsp;
-![https://www.linkedin.com/in/kelvin-zhang/](./linkedin.svg)
+![https://www.linkedin.com/in/kelvin-zhang/](https://raw.githubusercontent.com/0kzh/0kzh/master/linkedin.svg)
 &nbsp;&nbsp;
-![https://medium.com/@0kzh](./medium.svg)
+![https://medium.com/@0kzh](https://raw.githubusercontent.com/0kzh/0kzh/master/medium.svg)
