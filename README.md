@@ -11,6 +11,7 @@
 
 <details>
   <summary><b>interests</b></summary>
+  <br>
   <samp>
   <ul>
     <li><a href="https://kelvinzhang.ca/photo/">photography</a> 📸</li>
