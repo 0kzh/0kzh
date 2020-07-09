@@ -1,16 +1,30 @@
-### Hi there 👋
+<p>
+  <img src="./logo.svg" width="32px">
+  <br><br>
+  <samp>
+  👋 Hi there, I'm Kelvin!<br><br>
+  software engineering @ <b>university of waterloo</b><br>
+  backend and infrastructure @ <b>castodia</b><br>
+  previously @ <b>hootsuite</b>
+  </samp>
+</p>
 
-<!--
-**0kzh/0kzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><b>interests</b></summary>
+  <samp>
+  <ul>
+    <li><a href="https://kelvinzhang.ca/photo/">photography</a> 📸</li>
+    <li><a href="https://kelvinzhang.ca/work">building things</a> 🛠</li>
+    <li>non-fiction 📕</li>
+    <li>weightlifting & tennis 🏋🏻‍♂️</li>
+    <li>coffee ☕️</li>
+  </ul>
+  </samp>
+</details>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![https://kelvinzhang.ca/](./website.svg)
+&nbsp;&nbsp;
+![https://www.linkedin.com/in/kelvin-zhang/](./linkedin.svg)
+&nbsp;&nbsp;
+![https://medium.com/@0kzh](./medium.svg)
