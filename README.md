@@ -4,8 +4,8 @@
   <samp>
   👋 Hi there, I'm Kelvin!<br><br>
   software engineering @ <b><a href="https://uwaterpoo.ca">university of waterloo</a></b><br>
-  backend and infrastructure @ <b><a href="https://castodia.com">castodia</a></b><br>
-  previously @ <b><a href="https://hootsuite.com">hootsuite</a></b>
+  previously backend and infrastructure @ <b><a href="https://castodia.com">castodia</a></b><br>
+  && fullstack @ <b><a href="https://hootsuite.com">hootsuite</a></b>
   </samp>
 </p>
 
