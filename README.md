@@ -4,7 +4,7 @@
   <samp>
   👋 Hi there, I'm Kelvin!<br><br>
   software engineering @ <b><a href="https://uwaterpoo.ca">university of waterloo</a></b><br>
-  incoming production engineering intern @ <b><a href="https://shopify.com">shopify</a></b><br>
+  production engineering intern @ <b><a href="https://shopify.com">shopify</a></b><br>
   previously <b><a href="https://dropbase.io">dropbase</a></b> && <b><a href="https://hootsuite.com">hootsuite</a></b>
   </samp>
 </p>
