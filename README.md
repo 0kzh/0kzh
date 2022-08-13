@@ -3,7 +3,7 @@
   <br><br>
   <samp>
   👋 Hi there, I'm Kelvin!<br><br>
-  software engineering @ <b><a href="https://uwaterloo.ca">university of waterloo</a></b><br>
+  computer science @ <b><a href="https://uwaterloo.ca">university of waterloo</a></b><br>
   previously <b><a href="https://about.facebook.com/technologies/messenger/">messenger</a></b>, <b><a href="https://apple.com">apple</a></b>, <b><a href="https://shopify.com">shopify</a></b>, <b><a href="https://dropbase.io">dropbase</a></b>, <b><a href="https://hootsuite.com">hootsuite</a></b>
   </samp>
 </p>
